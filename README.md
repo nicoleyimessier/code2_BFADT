@@ -1,4 +1,4 @@
-# Code 2 (openFrameworks & processing) Procedurality
+# Code 2: Procedurality
 Course repository for Code 2 (processing &amp; openFrameworks) at BFA Design &amp; Technology, Parsons School of Design (Spring 2016)
 
 *Course Registrar Code: PUDT 2112
@@ -10,83 +10,84 @@ Procedurality: This studio is a continuation of the principles and techniques ta
 ##Course Outline
 
 ####Week 1, 01/25
-*Introductions & Work Presentations
-*Syllabus review
-*Tech setup: github, openFrameworks, processing 
+* Introductions & Work Presentations
+* Syllabus review
+* Tech setup: github, openFrameworks, processing 
 
 ####Week 2, 02/01
-*Programming basics review
-*Principles of object oriented programming
-*Creating classes + drawing
+* Programming basics review
+* Principles of object oriented programming
+* Creating classes + drawing
 
 ####Week 3, 02/08
-*Recursion
-*More classes + variables 
+* Recursion
+* More classes + variables 
 
 ####Week 4, 02/15
-*Holiday, No class
-*Work on Project 1
+* Holiday, No class
+* Work on Project 1
 
 ####Week 5, 02/22
-*Project 1 Presentations + Demos
+* Project 1 Presentations + Demos
 
 ####Week 6, 02/29
-*Kinematics (pos, vel, acl)
-*Arrays/Vectors
+* Kinematics (pos, vel, acl)
+* Arrays/Vectors
 
 ####Week 7, 03/07
-*Math for code (trig, polar/Cartesian)
-*Oscillation
-*Gaussian Function
-*Noise function
+* Math for code (trig, polar/Cartesian)
+* Oscillation
+* Gaussian Function
+* Noise function
 
 ####Week 8, 03/14
-*Forces, gravity, springs
+* Forces, gravity, springs
 
 ####Week 9, 03/21
-Spring Break, No class
+* Spring Break, No class
+* Work on project 2
 
 ####Week 10, 03/28
-*Particle systems
-*Object interactivity 
+* Particle systems
+* Object interactivity 
 
 ####Week 11, 04/04
-*Project 2 Presentations & Demos – algo animations
+* Project 2 Presentations & Demos – algo animations
 
 ####Week 12, 4/11
-*Complex systems (flocking, box2d, OR cellular automata) 
+* Complex systems (flocking, box2d, OR cellular automata) 
 
 ####Week 13, 4/18
-*Complex systems (flocking, box2d, OR cellular automata) 
+* Complex systems (flocking, box2d, OR cellular automata) 
 
 ####Week 14, 4/25
-*Semester review
-*In-class workshop
+* Semester review
+* In-class workshop
 
 ###Week 15, 5/2
-*In-class workshop
+* In-class workshop
 
 ####Week 16, 5/9
-*Final presentations & critiques 
+* Final presentations & critiques 
 
 ##Learning Outcomes
 * Actually understand what Object-Oriented Programming means.
-*Familiarity with basic C++ syntax, file structure, classes, and methods.
-*Know how to create physics engines
-*Ability to create procedurally-generated static & dynamic artwork.
-*Learn how to create work in processing & openFrameworks and differentiate when to use each
+* Familiarity with basic C++ syntax, file structure, classes, and methods.
+* Know how to create physics engines
+* Ability to create procedurally-generated static & dynamic artwork.
+* Learn how to create work in processing & openFrameworks and differentiate when to use each
 
 ##Final Grade Breakdown
-*Project 1 – 20%
-*Project 2 – 20%
-*Project 3 – 25%
-*Homework – 15%
-*Attendance & Participation – 20%
+* Project 1 – 20%
+* Project 2 – 20%
+* Project 3 – 25%
+* Homework – 15%
+* Attendance & Participation – 20%
 
 ##Projects
-*Project 1 - Procedurally-generated Artwork
-*Project 2 - Algorithmic Animation
-*Project 3 - Complex Systems
+* Project 1 - Procedurally-generated Artwork
+* Project 2 - Algorithmic Animation
+* Project 3 - Complex Systems
 
 ## Materials and Supplies
 This course will be based on [openFrameworks](http://openframeworks.cc) C++ toolkit, & [processing](https://processing.org/), and will use [GitHub.com](https://github.com/)  as the online platform to share code, research notes and papers and deliver homework. 
