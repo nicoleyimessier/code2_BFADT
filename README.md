@@ -1,8 +1,8 @@
 # Code 2: Procedurality
 Course repository for Code 2 (processing &amp; openFrameworks) at BFA Design &amp; Technology, Parsons School of Design (Spring 2016)
 
-*Course Registrar Code: PUDT 2112
-*Course Time: Monday (12:10pm-2:50pm) at 63 Fifth Ave L101
+* Course Registrar Code: PUDT 2112
+* Course Time: Monday (12:10pm-2:50pm) at 63 Fifth Ave L101
 
 ##Course Description
 Procedurality: This studio is a continuation of the principles and techniques taught in Code 1, but with a focus on generative design and simulation. We will examine the natural world and build systems designed to reproduce behavior from physics to L-Systems to flocking, building our own basic frameworks and implementing higher level frameworks like Box2D. We will study the relationship of procedure and algorithm to visual and conceptual art and use our skills in simulation and procedurality to produce dynamic, aesthetic, critical, and creative work. 
@@ -97,7 +97,7 @@ You may find additional help and inspiration in the examples contained in the fo
 * [Algo2012](http://github.com/ofZach/algo2012) by [Zach Lieberman](http://thesystemis.com/)
 * [Algo2013](https://github.com/cwhitney/algo2013) by [Charly Whitney](http://www.sharkbox.com/)
 * [sims2014](https://github.com/patriciogonzalezvivo/sims2014) by [Patricio Gonzalez Vivo](https://github.com/patriciogonzalezvivo)
-*[CreativeCoding_oF_F15](https://github.com/conorrussomanno/CreativeCoding_oF_F15) by [conorrussomanno](https://github.com/conorrussomanno)
+* [CreativeCoding_oF_F15](https://github.com/conorrussomanno/CreativeCoding_oF_F15) by [conorrussomanno](https://github.com/conorrussomanno)
 
 ##### C++ and oF
 
