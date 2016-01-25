@@ -1,12 +1,16 @@
 # Setup
 
-## 1. Download and Install openFrameworks and IDE
+## 1.1 Download and Install openFrameworks and IDE
 
 Go to [openFrameworks.cc/download](http://openframeworks.cc/download/) and download the right OF version for your platform. Close to it you will find a nice tutorial of how to install it. Please install the ```openFrameworks``` folder on your Desktop so that everyone has it in the same place ```~/Desktop/openFrameworks```. Once downloaded and placed on your Desktop, you can rename this directory from it's elongated version name to "openFrameworks"...
 
 OpenFrameworks is essentially a toolbox, you need to become familiar with its tools. To become familiar with oF, you should spend a significative amount of time compiling, checking and understanding each single example.
 
 An important piece of material you need to read to understand how OF's folder structure works together with your IDE interface is [Chapter 03: Setup and Project Structure](https://github.com/openframeworks/ofBook/blob/master/03_setup_and_project_structure/chapter.md) from the OFBOOK.
+
+## 1.2 Download and Install Processing 
+
+Go to [https://processing.org/download/](https://processing.org/download/) and download processing for your platform. 
 
 ## 2. Install Git and this repository
 
@@ -33,42 +37,16 @@ Go to your openFrameworks root directory:
 	
 And clone this directory
 
-	git clone https://github.com/conorrussomanno/CreativeCoding_oF_F15
+	git clone https://github.com/nicoleyimessier/code2_BFADT.git	
 
-You will see that the folder is together with the ```apps/```, ```libs/``` and ```addons/``` folders
-
-* ```addons/```
-* ```apps/```
-* ```libs/```
-* ```examples/```
-* ```scripts/```
-* **```CreativeCoding_oF_F15/```**
-
-These will preserve the examples on 3 levels over the root directory (if you don't understand what I mean, read [Chapter 03](https://github.com/openframeworks/ofBook/blob/master/03_setup_and_project_structure/chapter.md)! seriously! READ IT! ).
 
 ## 4. Make a GitHub Account
 
 Create a github account if you don't have one already and create a repo for the class that you'll use to submit your homework.  
 
-## 5. Clone the student repository
+## 5. Make your own repository
 
-Go to your openFrameworks root directory:
-
-	cd ~/Desktop/openFrameworks
-	
-And clone this directory
-
-	git clone https://github.com/conorrussomanno/CreativeCoding_oF_F15_students
-	
-Now you should see this repo mixed in with the other openFrameworks subdirectories:
-
-* ```addons/```
-* ```apps/```
-* ```libs/```
-* ```examples/```
-* ```scripts/```
-* ```CreativeCoding_oF_F15/```
-* **```CreativeCoding_oF_F15_students/```**
+In your read me file add a picture of yourself and bio. 
 	
 This is where you will be submitting your HW each week. Here, you will also be able to check out the work of your fellow students! For more information on submitting your HW, read the README in the [CreativeCoding_oF_F15_students](https://github.com/conorrussomanno/CreativeCoding_oF_F15_students) repo.
  
