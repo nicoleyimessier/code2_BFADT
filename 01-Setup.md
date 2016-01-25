@@ -48,5 +48,5 @@ Create a github account if you don't have one already and create a repo for the 
 
 In your read me file add a picture of yourself and bio. 
 	
-This is where you will be submitting your HW each week. Here, you will also be able to check out the work of your fellow students! For more information on submitting your HW, read the README in the [CreativeCoding_oF_F15_students](https://github.com/conorrussomanno/CreativeCoding_oF_F15_students) repo.
+This is where you will be submitting your HW each week. Here, you will also be able to check out the work of your fellow students! 
  
