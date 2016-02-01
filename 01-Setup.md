@@ -44,9 +44,17 @@ And clone this directory
 
 Create a github account if you don't have one already and create a repo for the class that you'll use to submit your homework.  
 
-## 5. Make your own repository
+## 5. Create your own class respoitory to save and submit your homework. Follow this [guide](https://help.github.com/articles/create-a-repo/) to see how to create a repo.
 
-In your read me file add a picture of yourself and bio. 
+## 6. Clone your PERSONAL student repository
+
+Go to your openFrameworks root directory:
+
+	cd ~/Desktop/openFrameworks
 	
-This is where you will be submitting your HW each week. Here, you will also be able to check out the work of your fellow students! 
+And clone your directory
+
+	git clone YOUR PERSONAL REPO URL
+	
+Now you should see this repo mixed in with the other openFrameworks subdirectories. This is where you will be submitting your HW each week.  
  
