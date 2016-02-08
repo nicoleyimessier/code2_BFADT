@@ -7,6 +7,23 @@ Course repository for Code 2 (processing &amp; openFrameworks) at BFA Design &am
 ##Course Description
 Procedurality: This studio is a continuation of the principles and techniques taught in Code 1, but with a focus on generative design and simulation. We will examine the natural world and build systems designed to reproduce behavior from physics to L-Systems to flocking, building our own basic frameworks and implementing higher level frameworks like Box2D. We will study the relationship of procedure and algorithm to visual and conceptual art and use our skills in simulation and procedurality to produce dynamic, aesthetic, critical, and creative work. 
 
+##Class Repos
+* [Abakumova, Mischa]()
+* [Addington-White, Zanzie]()
+* [Cashman, Shane]()
+* [Coelho, Guilherme](https://github.com/guilhermeismco/Code2-Proc)
+* [Diakaki, Myrto]()
+* [Enders, William]()
+* [Goefron, Christina]()
+* [Hu, Claire](https://github.com/Clairism/CODE-2)
+* [Hughes, Sean](https://github.com/seanhughes530/code2procedurality)
+* [Kabir, Enayet]()
+* [Koehler, Kim](https://github.com/kim-online/KIMKOEHLERCODE2)
+* [Remis, Ana](https://github.com/gatana/Code2_BFADT.S16)
+* [Sardogan, Emre](https://github.com/emres13/emresardogancode2)
+* [Stroh, Tyler](https://github.com/tydstroh/tylerstroh)
+* [Weibel, Marco](https://github.com/marcoweibel/Code2_Marco-Weibel)
+
 ##Course Outline
 
 ####Week 1, 01/25

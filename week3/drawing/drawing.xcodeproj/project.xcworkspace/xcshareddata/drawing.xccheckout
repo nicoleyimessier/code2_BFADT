@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CE6ABA3E-895A-4642-A4B0-480AF7EC0709</string>
+	<key>IDESourceControlProjectName</key>
+	<string>drawing</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D6378319-B412-4703-85C6-F5798FF32254</key>
+		<string>https://github.com/nicoleyimessier/code2_BFADT.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>week3/drawing/drawing.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D6378319-B412-4703-85C6-F5798FF32254</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nicoleyimessier/code2_BFADT.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D6378319-B412-4703-85C6-F5798FF32254</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D6378319-B412-4703-85C6-F5798FF32254</string>
+			<key>IDESourceControlWCCName</key>
+			<string>code2_BFADT</string>
+		</dict>
+	</array>
+</dict>
+</plist>
