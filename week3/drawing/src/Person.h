@@ -18,6 +18,7 @@
 class Person{
     public:
     
+    Person();
     //propties
     int height;
     //ofColor fur;

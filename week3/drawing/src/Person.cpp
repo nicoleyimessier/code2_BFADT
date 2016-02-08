@@ -9,12 +9,10 @@
 #include "Person.h"
 #include "ofMain.h"
 
-//Person::Person(){
-//    height = 10;
-//    smell = "good";
-//    name = "bob";
-//    
-//}
+Person::Person(){
+
+    
+};
 
 
 void Person::walk(){
