@@ -10,7 +10,9 @@
 #include "ofMain.h"
 
 Person::Person(){
-
+    fur.r = 255;
+    fur.b = 0;
+    fur.g = 0;
     
 };
 
@@ -37,7 +39,7 @@ void Person::eat(){
 
 void Person::draw(float xPos, float yPos){
     cout << "I'm drawing!" << endl;
-    ofSetColor(r, g, b);
+    ofSetColor(fur);
     ofFill(); 
     ofCircle(xPos, yPos, height, height);
 }

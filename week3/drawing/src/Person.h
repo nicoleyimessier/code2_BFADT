@@ -21,7 +21,7 @@ class Person{
     Person();
     //propties
     int height;
-    //ofColor fur;
+    ofColor fur;
     int r, g, b; 
     string smell;
     string name;
