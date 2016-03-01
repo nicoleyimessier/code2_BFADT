@@ -1,6 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
+#include "Branch.h"
 
 class testApp : public ofBaseApp{
 
@@ -20,5 +21,6 @@ class testApp : public ofBaseApp{
 		void gotMessage(ofMessage msg);
     
     void drawBranch(float length, float theta);
-		
+	
+	Branch myBranch;
 };

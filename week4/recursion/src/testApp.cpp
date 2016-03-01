@@ -1,15 +1,11 @@
 #include "testApp.h"
 
-//--------------------------------------------------------------
-void testApp::setup(){
-
-}
 
 void testApp::drawBranch(float length, float theta){
     ofLine(0, 0, 0, -length);
     ofTranslate(0, -length);
     
-    length = length*0.4;
+    length = length*0.66;
     
     if(length>2){
         
@@ -23,28 +19,45 @@ void testApp::drawBranch(float length, float theta){
         drawBranch(length, theta);
         ofPopMatrix();
         
+        
+    
     }
     
 }
 
 //--------------------------------------------------------------
-void testApp::update(){
+void testApp::setup(){
+    ofSetBackgroundAuto(false);
+    myBranch.setup(500.0, 30.0, 0.66);
+}
 
+//--------------------------------------------------------------
+void testApp::update(){
+  
 }
 
 //--------------------------------------------------------------
 void testApp::draw(){
     ofSetColor(255, 0, 0);
     ofFill();
+    ofTranslate(ofGetWidth()/2, ofGetHeight());
+    myBranch.drawMe();
+   
+    
+    
 //    
 //    float length = 200;
-    ofTranslate(ofGetWidth()/2, ofGetHeight());
-    drawBranch(400, cos(ofGetElapsedTimef())*100);
+//    ofTranslate(ofGetWidth()/2, ofGetHeight());
+//    drawBranch(400, cos(ofGetElapsedTimef())*100);
+//    
+//    drawBranch(200, cos(ofGetElapsedTimef())*100);
 //    ofLine(0, 0, 0, -length);
 //    
 //    ofTranslate(0, -length);
 //    ofRotate(30);
 //    ofLine(0, 0, 0, -length);
+    
+    
     
     
 }

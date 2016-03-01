@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>29B98F70-B3A1-48E5-9D96-0EC4968D9A61</string>
+	<key>IDESourceControlProjectName</key>
+	<string>lsystem</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4662F1BA-40CB-472D-A040-A342F4008503</key>
+		<string>https://github.com/nicoleyimessier/code2_BFADT.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>week5/lsystem/lsystem.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4662F1BA-40CB-472D-A040-A342F4008503</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nicoleyimessier/code2_BFADT.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4662F1BA-40CB-472D-A040-A342F4008503</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4662F1BA-40CB-472D-A040-A342F4008503</string>
+			<key>IDESourceControlWCCName</key>
+			<string>code2_BFADT</string>
+		</dict>
+	</array>
+</dict>
+</plist>
