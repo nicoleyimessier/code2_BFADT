@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/Branch.h"
+            timestampString = "479066951.553242"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "setup( float _xPos, float _yPos, float _length, float _width, float _splitPercentage, float _maxSplitAngle, float _maxSubdivions, float _maxSegments, float _segmentsSinceStart, float _angle, float _curvature, ofColor _color )"
+            landmarkType = "4">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
