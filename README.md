@@ -37,7 +37,6 @@ Procedurality: This studio is a continuation of the principles and techniques ta
 * Creating classes + drawing
 
 ####Week 3, 02/08
-* Recursion
 * More classes + variables 
 
 ####Week 4, 02/15
@@ -45,37 +44,41 @@ Procedurality: This studio is a continuation of the principles and techniques ta
 * Work on Project 1
 
 ####Week 5, 02/22
-* Project 1 Presentations + Demos
+* Recursion + fractials
 
 ####Week 6, 02/29
-* Kinematics (pos, vel, acl)
-* Arrays/Vectors
+* Recursion + classes
 
 ####Week 7, 03/07
-* Math for code (trig, polar/Cartesian)
-* Oscillation
-* Gaussian Function
-* Noise function
+* Recursion extended
+* Individual midterm meetings
 
 ####Week 8, 03/14
-* Forces, gravity, springs
+* Class Presentations
 
 ####Week 9, 03/21
 * Spring Break, No class
 * Work on project 2
 
 ####Week 10, 03/28
+* Math for code (trig, polar/Cartesian)
+* Oscillation
+* Gaussian Function
+* Noise function
+* Forces, gravity, springs
+ 
+
+####Week 11, 04/04
+* Kinematics (pos, vel, acl)
+* Vectors
 * Particle systems
 * Object interactivity 
 
-####Week 11, 04/04
-* Project 2 Presentations & Demos – algo animations
-
 ####Week 12, 4/11
-* Complex systems (flocking, box2d, OR cellular automata) 
+* Image processing & computer vision
 
 ####Week 13, 4/18
-* Complex systems (flocking, box2d, OR cellular automata) 
+* Image processing & computer vision
 
 ####Week 14, 4/25
 * Semester review
@@ -95,16 +98,14 @@ Procedurality: This studio is a continuation of the principles and techniques ta
 * Learn how to create work in processing & openFrameworks and differentiate when to use each
 
 ##Final Grade Breakdown
-* Project 1 – 20%
-* Project 2 – 20%
-* Project 3 – 25%
+* Project 1 – 30%
+* Project 2 – 35%
 * Homework – 15%
 * Attendance & Participation – 20%
 
 ##Projects
 * Project 1 - Procedurally-generated Artwork
-* Project 2 - Algorithmic Animation
-* Project 3 - Complex Systems
+* Project 2 - Algorithmic Animation or image processing
 
 ## Materials and Supplies
 This course will be based on [openFrameworks](http://openframeworks.cc) C++ toolkit, & [processing](https://processing.org/), and will use [GitHub.com](https://github.com/)  as the online platform to share code, research notes and papers and deliver homework. 
