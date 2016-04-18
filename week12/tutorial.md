@@ -14,6 +14,8 @@
 
 ##Loading & Drawing An Image
 * * * 
+
+
 In this tutorial, we will work with raster images only. 
 
 ###To upload and draw an image:
@@ -60,6 +62,8 @@ Tips:
 
 ##Color Manipulation
 * * * 
+
+
 ###Color Modulation
 You can maniuplate the color of an image by changing the individual color of each pixel using ofSetColor(). These will result in color modulations that are similar to tonal corrections. 
 
@@ -103,6 +107,8 @@ ofSetColor(r, g, b, a);
 
 ##Generating & Manipulating Images
 * * * 
+
+
 To manipulate an existing image, the pixel data is minipulated directly. Raster images are an array of pixels. To find the number of pixels in an array, you multiply the width of the image by the height. Each horizontal row of pixel data is stored sequentially -- row 1, row 2, row 3, etc. 
 
 ###Image Generation
@@ -176,10 +182,16 @@ void ofApp::draw(){
 }
 
 ```
+Your sketch should look like this: 
+
+![Sketch Output](image_outcome.png)
+
 ###Ex. 5 Create your own image where r, g, b, and a are equal to functions that vary according to ofNoise() and ofGetElapseTimef()
 
 ##Manipulating Images
 * * * 
+
+
 To manipulate an existing image, you need to store the pixels of the image in an array using ```myImage.getPixels()```. After manipulating the array, use ```myImage.update()``` to change and update the image. 
 
 ###Ex. 6 Using the same structure used for generating an image, manipulate an existing image. 
@@ -187,5 +199,14 @@ Tips: you will need to store the pixel images in an array again using ```unsigne
 
 ##Homework
 * * * 
+
 * Create an app using imgae processing and a topic not discussed in class. Create a tutorial for your app in markdown and submit to your github. You will present your tutorial next week in class.
 *  Moodboard and brainstorm your final project. Come in with a concept and workplan for your final project. Workplan should include what technologies you need to use, concepts you need to research, and a schedule for implementation. Next week's class will be a workshop class, and I'll meet with each of you individually. 
+
+##Markdown
+* * * 
+
+
+* Markdown is a text to HTML conversion tool for web writers.
+* [Mastering Markdown tutorial] (https://guides.github.com/features/mastering-markdown/) 
+* [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
