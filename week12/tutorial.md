@@ -162,7 +162,7 @@ void ofApp::update(){
 }
 
 ```
-Lastly, in the update function, load the array to your image and delete your data array. 
+Lastly, in the update function but outside of the previous for loop, load the array to your image and delete your data array. 
 
 
 ```
@@ -195,7 +195,10 @@ Your sketch should look like this:
 To manipulate an existing image, you need to store the pixels of the image in an array using ```myImage.getPixels()```. After manipulating the array, use ```myImage.update()``` to change and update the image. 
 
 ###Ex. 6 Using the same structure used for generating an image, manipulate an existing image. 
-Tips: you will need to store the pixel images in an array again using ```unsigned char *data = myImage.getPixels()``` and then create a variable to calculate the number of pixels
+Tips: 
+
+* you will need to store the pixel images in an array again using ```unsigned char *data = myImage.getPixels()``` 
+* and then create a variable to calculate the number of pixels using the bpp attribute (which is the bits per pixel) divided by 8. Bites per pixel / 8 = bytes per pixel
 
 ##Homework
 * * * 
