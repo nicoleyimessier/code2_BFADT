@@ -78,15 +78,15 @@ myImage.draw(ofGetWidth()/2, ofGetHeight()/2);
 ####Blending Modes in OF
 * By default, openframeworks is set to alpha blending. However, there are 4 additional types of blending.
 
-1. Default Mode: ```OF_BLENDMODE_ALPHA```
+1. Alpha Mode (which is the default mode): ```OF_BLENDMODE_ALPHA```
 
-2. ```OF_BLENDMODE_ADD```
+2. Add Mode: ```OF_BLENDMODE_ADD```
 
-3. ```OF_BLENDMODE_MULTIPLY```
+3. Multiply Mode: ```OF_BLENDMODE_MULTIPLY```
 
-4. ```OF_BLENDMODE_SUBTRACT```
+4. Subtract Mode: ```OF_BLENDMODE_SUBTRACT```
 
-5. ```OF_BLENDMODE_SCREEN```
+5. Screen Mode: ```OF_BLENDMODE_SCREEN```
 
 * To switch the blending mode, call:
 
