@@ -119,7 +119,7 @@ Declare an image object, image height, and image width
 
 ```
 ofImage myImage; 
-ofImage h, w;
+int h, w;
 
 ```
 
